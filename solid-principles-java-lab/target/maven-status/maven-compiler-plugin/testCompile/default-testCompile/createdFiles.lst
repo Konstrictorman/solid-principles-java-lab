@@ -1,5 +1,6 @@
 InvoiceTest.class
 com/example/solid/ocp/OcpTest.class
+com/example/solid/AppTest.class
 CarTest.class
 InvoiceCalculatorTest.class
 ElectricCarTest.class
