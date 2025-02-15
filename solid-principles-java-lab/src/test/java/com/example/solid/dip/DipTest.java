@@ -13,7 +13,7 @@ public class DipTest {
     }
 
     @Test 
-    void shouldInstantiateWithAnDBImplementationClass(){
+    void shouldInstantiateWithADBImplementationClass(){
         assertTrue(orderProcessor.getDataBase() instanceof Database); 
     }
 }
