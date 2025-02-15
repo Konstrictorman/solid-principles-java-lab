@@ -1,3 +1,8 @@
-com/example/solid/AppTest.class
+InvoiceTest.class
 com/example/solid/ocp/OcpTest.class
+CarTest.class
+InvoiceCalculatorTest.class
+ElectricCarTest.class
+InvoicePrinterTest.class
 com/example/solid/dip/DipTest.class
+InvoiceDbSaverTest.class
