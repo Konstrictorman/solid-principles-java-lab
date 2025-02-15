@@ -1,5 +1,10 @@
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/AppTest.java
+<<<<<<< HEAD
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoiceCalculatorTest.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoiceDbSaverTest.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoicePrinterTest.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoiceTest.java
+=======
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/dip/DipTest.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/ocp/OcpTest.java
+>>>>>>> 0aa48fa7faba60a4d11e233a2167064847ca7d1d
