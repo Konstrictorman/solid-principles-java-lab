@@ -1,5 +1,3 @@
 com/example/solid/AppTest.class
-CarTest.class
 com/example/solid/ocp/OcpTest.class
-ElectricCarTest.class
 com/example/solid/dip/DipTest.class
