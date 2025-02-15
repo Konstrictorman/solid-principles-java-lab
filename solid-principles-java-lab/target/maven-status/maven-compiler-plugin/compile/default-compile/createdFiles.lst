@@ -1,8 +1,10 @@
 Invoice.class
 com/example/solid/App.class
+com/example/solid/isp/Developer.class
 com/example/solid/dip/MySQLDatabase.class
 DiscountCalculator.class
 Car.class
+com/example/solid/isp/Worker.class
 com/example/solid/dip/Database.class
 ElectricCar.class
 com/example/solid/dip/OrderProcessor.class

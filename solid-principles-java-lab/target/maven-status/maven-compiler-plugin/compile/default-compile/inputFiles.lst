@@ -2,7 +2,8 @@
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/dip/Database.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/dip/MySQLDatabase.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/dip/OrderProcessor.java
-/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/isp/Example.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/isp/Developer.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/isp/Worker.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/lsp/Car.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/ocp/DiscountCalculator.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/srp/Invoice.java
