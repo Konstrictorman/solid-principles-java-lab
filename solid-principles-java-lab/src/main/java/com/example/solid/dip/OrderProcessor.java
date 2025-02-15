@@ -9,6 +9,10 @@ public class OrderProcessor {
         this.database = database;
     }
 
+    public Database getDataBase(){
+        return database;
+    }
+
     public void processOrder() {
         System.out.println("Procesando pedido...");
         database.saveOrder();
