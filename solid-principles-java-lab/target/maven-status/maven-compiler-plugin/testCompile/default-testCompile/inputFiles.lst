@@ -1,0 +1,5 @@
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/AppTest.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoiceCalculatorTest.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoiceDbSaverTest.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoicePrinterTest.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/test/java/com/example/solid/srp/InvoiceTest.java

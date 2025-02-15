@@ -7,3 +7,6 @@
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/lsp/Car.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/ocp/DiscountCalculator.java
 /workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/srp/Invoice.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/srp/InvoiceCalculator.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/srp/InvoiceDbSaver.java
+/workspaces/solid-principles-java-lab/solid-principles-java-lab/src/main/java/com/example/solid/srp/InvoicePrinter.java
